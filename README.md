@@ -14,26 +14,28 @@ My list of resources for development. Will be useful for sharing with future tea
 
 ## JavaScript (General)
 * [TC39 (Technical Committee that evolves JavaScript)](https://github.com/tc39)
-* 
+* [exercism.io JavaScript track](http://exercism.io/languages/javascript/about)
+* [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
 
 ## Ember
-* [ember-cli user guide](https://ember-cli.com/user-guide/)
 * [Ember API](https://emberjs.com/api/)
+* [ember-cli user guide](https://ember-cli.com/user-guide/)
 * [Ember Blog](https://emberjs.com/blog/)
+* [Ember Weekly (Newsletter)](http://www.emberweekly.com/)
+* [Ember Addons](https://www.emberaddons.com/)
 * [Ember Concurrency (Video)](https://www.youtube.com/watch?v=VEzVDOmY-dc)
 * [Ember Concurrency (Docs)](http://ember-concurrency.com/#/docs/introduction)
 * [Going Progressive With Ember (Video)](https://www.youtube.com/watch?v=OR1Tk_bwmZo)
 * [Confessions of an Addon Author (Video)](https://www.youtube.com/watch?v=ln_DvmQsvis)
 * [Dockyard](https://github.com/dockyard)
-* [Ember Addons](https://www.emberaddons.com/)
 
 
 ## React/Redux
+* [Intro to React/Redux video series](https://www.youtube.com/watch?v=5oiXG9f6GO0&list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
 * [Redux docs](https://redux.js.org/docs/basics/UsageWithReact.html)
 * [Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 * [Redux AJAX Calls](https://github.com/reactjs/redux/issues/291)
-* [Intro to React/Redux video series](https://www.youtube.com/watch?v=5oiXG9f6GO0&list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
 * [Writing Tests for Redux](https://redux.js.org/docs/recipes/WritingTests.html)
 * [Writing Tests with Jest](https://facebook.github.io/jest/docs/en/tutorial-react.html)
 
@@ -46,6 +48,11 @@ My list of resources for development. Will be useful for sharing with future tea
 ## Node/Express
 * [Node server on AWS(EC2) Tutorial](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1)
 * [Express Routing and NodeJS guide](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
+
+
+## Git
+* [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+* [Feature branches vs Feature flags (Article)](https://devops.com/feature-branching-vs-feature-flags-whats-right-tool-job/)
 
 
 ## Build/Deploy Tools
@@ -67,6 +74,8 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Lighthouse (PWA Audit)](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
 * [No W3Schools](https://chrome.google.com/webstore/detail/w3schools-hider/cbifdjebjnindebojlhccdccmgfgccdo?hl=en)
 * [Joblint](https://chrome.google.com/webstore/detail/joblint/amocmhopdccjmbheafgjicjcbmpogdhm?hl=en-US)
+* [Spectrum (Audit site for different types of colour vision deficiency)](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb)
+* [Funkify - disability simulator](https://chrome.google.com/webstore/detail/funkify-disability-simula/ojcijjdchelkddboickefhnbdpeajdjg)
 * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=en-US)
 
 
@@ -82,12 +91,15 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Nativefier](https://github.com/jiahaog/nativefier)
 * [Habitica (RPG To-Do App)](https://habitica.com)
 * [Trello (Organising)](https://trello.com/)
+* [iTerm2 (Terminal)](https://www.iterm2.com/)
+* [Spectacle (Window Management)](https://www.spectacleapp.com)
+* [Muzzle (Stops push notifications when screensharing)](https://muzzleapp.com/)
 
 
 ## Misc
 * [Public Speaking Resources (Software development focused)](https://github.com/vmbrasseur/Public_Speaking)
 * [Declan Ramsay dotfiles](https://github.com/thelucideffect/dotfiles/)
 * [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
-
+* [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
 
 ## Design
