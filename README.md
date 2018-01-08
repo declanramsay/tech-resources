@@ -1,13 +1,32 @@
 #  Tech Resources
 My list of resources for development. Will be useful for sharing with future teamies.
 
-## Team Culture
+## Culture
 * [Hiring without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Finding a better alternative to the whiteboard interview (Article)](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 * [Spotify Engineering Culture (Video)](https://www.youtube.com/watch?v=R2o-Xm3UVjs)
 * [Ten Bullets: Working To Code AKA ALWAYS BE KNOLLING (Video)](https://www.youtube.com/watch?v=49p1JVLHUos)
 * [Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [Contempt Culture](http://blog.aurynn.com/2015/12/16-contempt-culture)
+* [The Beauty of Bad Code (Video)](https://www.youtube.com/watch?v=2qW-uqFl2X0)
+* [The code I'm still ashamed of (TW: Suicide)](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
+
+
+## JavaScript (General)
+* [TC39 (Technical Committee that evolves JavaScript)](https://github.com/tc39)
+* 
+
+
+## Ember
+* [ember-cli user guide](https://ember-cli.com/user-guide/)
+* [Ember API](https://emberjs.com/api/)
+* [Ember Blog](https://emberjs.com/blog/)
+* [Ember Concurrency (Video)](https://www.youtube.com/watch?v=VEzVDOmY-dc)
+* [Ember Concurrency (Docs)](http://ember-concurrency.com/#/docs/introduction)
+* [Going Progressive With Ember (Video)](https://www.youtube.com/watch?v=OR1Tk_bwmZo)
+* [Confessions of an Addon Author (Video)](https://www.youtube.com/watch?v=ln_DvmQsvis)
+* [Dockyard](https://github.com/dockyard)
+* [Ember Addons](https://www.emberaddons.com/)
 
 
 ## React/Redux
@@ -31,7 +50,14 @@ My list of resources for development. Will be useful for sharing with future tea
 
 ## Build/Deploy Tools
 * [Webpack docs](https://webpack.js.org/guides/)
+* [Getting started with JavaScript Bundling (Video)](https://www.youtube.com/watch?v=PcqYhSH44Ow)
 * [pm2 docs](http://pm2.keymetrics.io/docs/usage/cluster-mode/)
+
+
+## Elasticsearch
+* [bodybuilder.js docs](http://bodybuilder.js.org/docs/)
+* [elasticsearch ref](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+* [elasticsearch.js docs](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
 
 
 ## Chrome Extensions
@@ -44,13 +70,10 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=en-US)
 
 
-## Elasticsearch
-* [bodybuilder.js docs](http://bodybuilder.js.org/docs/)
-* [elasticsearch ref](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
-* [elasticsearch.js docs](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
-
-
-## Best Practices
+## Slack
+* [LGBTQ in Tech](https://lgbt.slack.com/)
+* [EmberJS Community](https://embercommunity.slack.com)
+* [Reactiflux (On Discord, not Slack)](http://www.reactiflux.com/)
 
 
 ## Useful Apps
@@ -58,9 +81,13 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Franz (Messaging)](https://meetfranz.com/)
 * [Nativefier](https://github.com/jiahaog/nativefier)
 * [Habitica (RPG To-Do App)](https://habitica.com)
-
-
-## Design
+* [Trello (Organising)](https://trello.com/)
 
 
 ## Misc
+* [Public Speaking Resources (Software development focused)](https://github.com/vmbrasseur/Public_Speaking)
+* [Declan Ramsay dotfiles](https://github.com/thelucideffect/dotfiles/)
+* [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
+
+
+## Design
