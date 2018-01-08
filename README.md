@@ -24,6 +24,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Ember Blog](https://emberjs.com/blog/)
 * [Ember Weekly (Newsletter)](http://www.emberweekly.com/)
 * [Ember Addons](https://www.emberaddons.com/)
+* [Yo Ember (Tutorial)](http://yoember.com/)
 * [Ember Concurrency (Video)](https://www.youtube.com/watch?v=VEzVDOmY-dc)
 * [Ember Concurrency (Docs)](http://ember-concurrency.com/#/docs/introduction)
 * [Going Progressive With Ember (Video)](https://www.youtube.com/watch?v=OR1Tk_bwmZo)
@@ -41,6 +42,7 @@ My list of resources for development. Will be useful for sharing with future tea
 
 
 ## CSS/SASS
+* [Intro to BEM](http://getbem.com/introduction/)
 * [ITCSS - CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 
@@ -102,4 +104,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
 * [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
 
+
 ## Design
+* [Brutalist Websites](http://brutalistwebsites.com/)
+* [A List Apart](http://alistapart.com/)
