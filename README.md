@@ -2,20 +2,24 @@
 My list of resources for development. Will be useful for sharing with future teamies.
 
 ## Culture
-* [Hiring without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-* [Finding a better alternative to the whiteboard interview (Article)](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 * [Spotify Engineering Culture (Video)](https://www.youtube.com/watch?v=R2o-Xm3UVjs)
 * [Ten Bullets: Working To Code AKA ALWAYS BE KNOLLING (Video)](https://www.youtube.com/watch?v=49p1JVLHUos)
-* [Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+* [Just Culture (Etsy)](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [Contempt Culture](http://blog.aurynn.com/2015/12/16-contempt-culture)
 * [The Beauty of Bad Code (Video)](https://www.youtube.com/watch?v=2qW-uqFl2X0)
 * [The code I'm still ashamed of (TW: Suicide)](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
+* [PHP Does Not Suck](http://www.phpdoesnotsuck.com/)
+* [Overcoming Imposter Syndrome (Article)](https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5)
+* [Hiring without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+* [Finding a better alternative to the whiteboard interview (Article)](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
+* [Improving our engineering interview process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.uuih4wg3m)
 
 
 ## JavaScript (General)
 * [TC39 (Technical Committee that evolves JavaScript)](https://github.com/tc39)
 * [exercism.io JavaScript track](http://exercism.io/languages/javascript/about)
 * [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Burger Party, Promises explained](https://kosamari.com/notes/the-promise-of-a-burger-party)
 
 
 ## Ember
@@ -45,11 +49,15 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Intro to BEM](http://getbem.com/introduction/)
 * [ITCSS - CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+* [Holy Grail Layout in Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
+* [Flexbox Grid (Grid System)](http://flexboxgrid.com/)
+* [Sass vs LESS](https://www.keycdn.com/blog/sass-vs-less/)
 
 
 ## Node/Express
-* [Node server on AWS(EC2) Tutorial](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1)
+* [Express API](https://expressjs.com/en/4x/api.html)
 * [Express Routing and NodeJS guide](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
+* [Node server on AWS (EC2) Tutorial](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1)
 
 
 ## Git
@@ -96,6 +104,8 @@ My list of resources for development. Will be useful for sharing with future tea
 * [iTerm2 (Terminal)](https://www.iterm2.com/)
 * [Spectacle (Window Management)](https://www.spectacleapp.com)
 * [Muzzle (Stops push notifications when screensharing)](https://muzzleapp.com/)
+* [Postman (API Development Environment)](https://www.getpostman.com/)
+* [Zeplin (Design/FE Collab Tool)](https://zeplin.io/)
 
 
 ## Misc
@@ -106,5 +116,7 @@ My list of resources for development. Will be useful for sharing with future tea
 
 
 ## Design
-* [Brutalist Websites](http://brutalistwebsites.com/)
+* [Material Design (Google)](https://material.io/guidelines/)
+* [Polymer (Web implementation of Material Design)](https://github.com/Polymer/polymer)
 * [A List Apart](http://alistapart.com/)
+* [Brutalist Websites](http://brutalistwebsites.com/)
