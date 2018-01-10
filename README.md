@@ -13,6 +13,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Hiring without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [Finding a better alternative to the whiteboard interview (Article)](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 * [Improving our engineering interview process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.uuih4wg3m)
+* [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 
 ## JavaScript (General)
@@ -52,6 +53,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Holy Grail Layout in Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 * [Flexbox Grid (Grid System)](http://flexboxgrid.com/)
 * [Sass vs LESS](https://www.keycdn.com/blog/sass-vs-less/)
+* [Font Awesome (Icons)](http://fontawesome.io/)
 
 
 ## Node/Express
@@ -106,6 +108,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Muzzle (Stops push notifications when screensharing)](https://muzzleapp.com/)
 * [Postman (API Development Environment)](https://www.getpostman.com/)
 * [Zeplin (Design/FE Collab Tool)](https://zeplin.io/)
+* [DaisyDisk (Paid, Disk Management)](https://daisydiskapp.com/)
 
 
 ## Misc
@@ -116,7 +119,11 @@ My list of resources for development. Will be useful for sharing with future tea
 
 
 ## Design
+* [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 * [Material Design (Google)](https://material.io/guidelines/)
 * [Polymer (Web implementation of Material Design)](https://github.com/Polymer/polymer)
 * [A List Apart](http://alistapart.com/)
 * [Brutalist Websites](http://brutalistwebsites.com/)
+* [Color Shades Generator](http://colllor.com/)
+* [Color Palette Generator](https://coolors.co/ffca3a-8ac926-1982c4-e84855-6a4c93)
+* [Dribble Color Inspiration](https://dribbble.com/colors/a866ee?percent=30)
