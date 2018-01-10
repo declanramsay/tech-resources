@@ -18,9 +18,9 @@ My list of resources for development. Will be useful for sharing with future tea
 
 ## JavaScript (General)
 * [TC39 (Technical Committee that evolves JavaScript)](https://github.com/tc39)
-* [exercism.io JavaScript track](http://exercism.io/languages/javascript/about)
-* [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Burger Party, Promises explained](https://kosamari.com/notes/the-promise-of-a-burger-party)
+* [exercism.io - JavaScript track (Code Challenges)](http://exercism.io/languages/javascript/about)
+* [Become A Full Stack Web Developer (Resource list)](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Burger Party, (Promises explained)](https://kosamari.com/notes/the-promise-of-a-burger-party)
 
 
 ## Ember
@@ -29,12 +29,13 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Ember Blog](https://emberjs.com/blog/)
 * [Ember Weekly (Newsletter)](http://www.emberweekly.com/)
 * [Ember Addons](https://www.emberaddons.com/)
+* [The Ember Way (Medium publication)](https://emberway.io)
 * [Yo Ember (Tutorial)](http://yoember.com/)
 * [Ember Concurrency (Video)](https://www.youtube.com/watch?v=VEzVDOmY-dc)
 * [Ember Concurrency (Docs)](http://ember-concurrency.com/#/docs/introduction)
 * [Going Progressive With Ember (Video)](https://www.youtube.com/watch?v=OR1Tk_bwmZo)
 * [Confessions of an Addon Author (Video)](https://www.youtube.com/watch?v=ln_DvmQsvis)
-* [Dockyard](https://github.com/dockyard)
+* [Dockyard (Ember shop, blog + addons)](https://github.com/dockyard)
 
 
 ## React/Redux
@@ -63,6 +64,7 @@ My list of resources for development. Will be useful for sharing with future tea
 
 
 ## Git
+* [git docs](https://git-scm.com/docs)
 * [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 * [Feature branches vs Feature flags (Article)](https://devops.com/feature-branching-vs-feature-flags-whats-right-tool-job/)
 
@@ -111,13 +113,6 @@ My list of resources for development. Will be useful for sharing with future tea
 * [DaisyDisk (Paid, Disk Management)](https://daisydiskapp.com/)
 
 
-## Misc
-* [Public Speaking Resources (Software development focused)](https://github.com/vmbrasseur/Public_Speaking)
-* [Declan Ramsay dotfiles](https://github.com/thelucideffect/dotfiles/)
-* [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
-* [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
-
-
 ## Design
 * [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 * [Material Design (Google)](https://material.io/guidelines/)
@@ -127,3 +122,11 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Color Shades Generator](http://colllor.com/)
 * [Color Palette Generator](https://coolors.co/ffca3a-8ac926-1982c4-e84855-6a4c93)
 * [Dribble Color Inspiration](https://dribbble.com/colors/a866ee?percent=30)
+
+
+## Misc
+* [Public Speaking Resources (Software development focused)](https://github.com/vmbrasseur/Public_Speaking)
+* [Coding Interview University (Study plan to become a software engineer, MASSIVE)](https://github.com/jwasham/coding-interview-university)
+* [Declan Ramsay dotfiles](https://github.com/thelucideffect/dotfiles/)
+* [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
+* [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
