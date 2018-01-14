@@ -127,6 +127,8 @@ My list of resources for development. Will be useful for sharing with future tea
 ## Misc
 * [Public Speaking Resources (Software development focused)](https://github.com/vmbrasseur/Public_Speaking)
 * [Coding Interview University (Study plan to become a software engineer, MASSIVE)](https://github.com/jwasham/coding-interview-university)
+* [Firewatch Background (Official)](http://cdn.edgecast.steamstatic.com/steam/apps/383870/ss_eb64648f294463df89e55f9363cdf159aebcf11e.jpg?t=1490031855)
+* [Firewatch Backgrounds (Mods)](https://aaronolive.deviantart.com/art/Firewatch-Mods-619259473)
 * [Declan Ramsay dotfiles](https://github.com/thelucideffect/dotfiles/)
 * [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
 * [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
