@@ -86,6 +86,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Bulletproof Background Images](https://backgrounds.cm/)
 * [Bulletproof Buttons](https://buttons.cm/)
 * [MailChimp Email Design Reference](https://templates.mailchimp.com/)
+* [Email Client CSS Support Tables](https://templates.mailchimp.com/resources/email-client-css-support/)
 
 
 ## Chrome Extensions
