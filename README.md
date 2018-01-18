@@ -81,6 +81,13 @@ My list of resources for development. Will be useful for sharing with future tea
 * [elasticsearch.js docs](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
 
 
+## Email Templating
+* [Campaign Monitor - CSS Guide](https://www.campaignmonitor.com/css/)
+* [Bulletproof Background Images](https://backgrounds.cm/)
+* [Bulletproof Buttons](https://buttons.cm/)
+* [MailChimp Email Design Reference](https://templates.mailchimp.com/)
+
+
 ## Chrome Extensions
 * [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
