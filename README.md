@@ -62,6 +62,9 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Express Routing and NodeJS guide](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
 * [Node server on AWS (EC2) Tutorial](https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1)
 
+## ORM (Object-Relational Mapping)
+* [Sequelize Docs](http://docs.sequelizejs.com/)
+
 
 ## Git
 * [git docs](https://git-scm.com/docs)
