@@ -85,6 +85,7 @@ My list of resources for development. Will be useful for sharing with future tea
 
 
 ## Email Templating
+* [mjml - Responsive Email Framework](https://mjml.io/)
 * [Campaign Monitor - CSS Guide](https://www.campaignmonitor.com/css/)
 * [Bulletproof Background Images](https://backgrounds.cm/)
 * [Bulletproof Buttons](https://buttons.cm/)
