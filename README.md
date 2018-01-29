@@ -14,13 +14,14 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Finding a better alternative to the whiteboard interview (Article)](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
 * [Improving our engineering interview process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.uuih4wg3m)
 * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+* [The Importance Of Donuts - Celebrate Personal Success](http://larahogan.me/donuts/)
 
 
 ## JavaScript (General)
 * [TC39 (Technical Committee that evolves JavaScript)](https://github.com/tc39)
 * [exercism.io - JavaScript track (Code Challenges)](http://exercism.io/languages/javascript/about)
 * [Become A Full Stack Web Developer (Resource list)](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Burger Party, (Promises explained)](https://kosamari.com/notes/the-promise-of-a-burger-party)
+* [Burger Party (Promises explained)](https://kosamari.com/notes/the-promise-of-a-burger-party)
 
 
 ## Ember
@@ -114,7 +115,7 @@ My list of resources for development. Will be useful for sharing with future tea
 ## Useful Apps
 * [Dash (Documentation)](https://kapeli.com/dash)
 * [Franz (Messaging)](https://meetfranz.com/)
-* [Nativefier](https://github.com/jiahaog/nativefier)
+* [Nativefier (Electron wrapper for websites)](https://github.com/jiahaog/nativefier)
 * [Habitica (RPG To-Do App)](https://habitica.com)
 * [Trello (Organising)](https://trello.com/)
 * [iTerm2 (Terminal)](https://www.iterm2.com/)
@@ -123,6 +124,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Postman (API Development Environment)](https://www.getpostman.com/)
 * [Zeplin (Design/FE Collab Tool)](https://zeplin.io/)
 * [DaisyDisk (Paid, Disk Management)](https://daisydiskapp.com/)
+* [Vanilla (Free/Paid, Menu Bar Management)](http://matthewpalmer.net/vanilla/)
 
 
 ## Design
@@ -138,7 +140,7 @@ My list of resources for development. Will be useful for sharing with future tea
 
 ## Misc
 * [Public Speaking Resources (Software development focused)](https://github.com/vmbrasseur/Public_Speaking)
-* [Coding Interview University (Study plan to become a software engineer, MASSIVE)](https://github.com/jwasham/coding-interview-university)
+* [Coding Interview University (Study plan to become a software engineer for Google, MASSIVE)](https://github.com/jwasham/coding-interview-university)
 * [Firewatch Background (Official)](http://cdn.edgecast.steamstatic.com/steam/apps/383870/ss_eb64648f294463df89e55f9363cdf159aebcf11e.jpg?t=1490031855)
 * [Firewatch Backgrounds (Mods)](https://aaronolive.deviantart.com/art/Firewatch-Mods-619259473)
 * [Declan Ramsay dotfiles](https://github.com/thelucideffect/dotfiles/)
