@@ -15,6 +15,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Improving our engineering interview process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9#.uuih4wg3m)
 * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [The Importance Of Donuts - Celebrate Personal Success](http://larahogan.me/donuts/)
+* [selfcare.tech - Repository of self-care resources](http://selfcare.tech/)
 
 
 ## JavaScript (General)
@@ -46,6 +47,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Redux AJAX Calls](https://github.com/reactjs/redux/issues/291)
 * [Writing Tests for Redux](https://redux.js.org/docs/recipes/WritingTests.html)
 * [Writing Tests with Jest](https://facebook.github.io/jest/docs/en/tutorial-react.html)
+* [Redux Form Docs](https://redux-form.com/7.3.0/docs/api/)
 
 
 ## CSS/SASS
@@ -113,6 +115,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [LGBTQ in Tech](https://lgbt.slack.com/)
 * [EmberJS Community](https://embercommunity.slack.com)
 * [Reactiflux (On Discord, not Slack)](http://www.reactiflux.com/)
+* [WeAllJS](https://wealljs.org)
 
 
 ## Useful Apps
