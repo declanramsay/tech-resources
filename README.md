@@ -125,6 +125,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Habitica (RPG To-Do App)](https://habitica.com)
 * [Trello (Organising)](https://trello.com/)
 * [iTerm2 (Terminal)](https://www.iterm2.com/)
+* [Hyper (Electron-based Terminal)](https://hyper.is/)
 * [Spectacle (Window Management)](https://www.spectacleapp.com)
 * [Muzzle (Stops push notifications when screensharing)](https://muzzleapp.com/)
 * [Postman (API Development Environment)](https://www.getpostman.com/)
