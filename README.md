@@ -1,7 +1,7 @@
 #  Tech Resources
 My list of resources for development. Will be useful for sharing with future teamies.
 
-## Culture
+## Culture / Team / Personal Development
 * [Spotify Engineering Culture (Video)](https://www.youtube.com/watch?v=R2o-Xm3UVjs)
 * [Ten Bullets: Working To Code AKA ALWAYS BE KNOLLING (Video)](https://www.youtube.com/watch?v=49p1JVLHUos)
 * [Just Culture (Etsy)](https://codeascraft.com/2012/05/22/blameless-postmortems/)
@@ -16,6 +16,8 @@ My list of resources for development. Will be useful for sharing with future tea
 * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [The Importance Of Donuts - Celebrate Personal Success](http://larahogan.me/donuts/)
 * [selfcare.tech - Repository of self-care resources](http://selfcare.tech/)
+* [Developer Growth Framework (Explainer)](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework)
+* [Developer Growth Framework](https://docs.google.com/spreadsheets/d/10bla_DG_tWjPYMTYzR0p7ZBqIVd1n_NG5yXVfgARxa4/edit?usp=sharing)
 
 
 ## JavaScript (General)
@@ -48,6 +50,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Writing Tests for Redux](https://redux.js.org/docs/recipes/WritingTests.html)
 * [Writing Tests with Jest](https://facebook.github.io/jest/docs/en/tutorial-react.html)
 * [Redux Form Docs](https://redux-form.com/7.3.0/docs/api/)
+* [Flag, feature flagging for React+Redux](https://github.com/garbles/flag)
 
 
 ## CSS/SASS
@@ -58,6 +61,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Flexbox Grid (Grid System)](http://flexboxgrid.com/)
 * [Sass vs LESS](https://www.keycdn.com/blog/sass-vs-less/)
 * [Font Awesome (Icons)](http://fontawesome.io/)
+* [Should I use CSS-in-JS? (Article)](https://reactarmory.com/answers/should-i-use-css-in-js)
 
 
 ## Node/Express
