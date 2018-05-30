@@ -5,6 +5,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Spotify Engineering Culture (Video)](https://www.youtube.com/watch?v=R2o-Xm3UVjs)
 * [Ten Bullets: Working To Code AKA ALWAYS BE KNOLLING (Video)](https://www.youtube.com/watch?v=49p1JVLHUos)
 * [Just Culture (Etsy)](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+* [Postmortem - What happened to Etsy (Article)](https://www.nytimes.com/2017/11/25/business/etsy-josh-silverman.html)
 * [Contempt Culture](http://blog.aurynn.com/2015/12/16-contempt-culture)
 * [The Beauty of Bad Code (Video)](https://www.youtube.com/watch?v=2qW-uqFl2X0)
 * [The code I'm still ashamed of (TW: Suicide)](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
