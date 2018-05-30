@@ -94,6 +94,12 @@ My list of resources for development. Will be useful for sharing with future tea
 * [elasticsearch.js docs](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
 
 
+## SEO / Speed
+* [ContentKing Academy (Articles)](https://www.contentkingapp.com/academy)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [Test My Site With Google](https://testmysite.withgoogle.com/intl/en-gb)
+
+
 ## Email Templating
 * [mjml - Responsive Email Framework](https://mjml.io/)
 * [Campaign Monitor - CSS Guide](https://www.campaignmonitor.com/css/)
@@ -155,7 +161,8 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Firewatch Background (Official)](http://cdn.edgecast.steamstatic.com/steam/apps/383870/ss_eb64648f294463df89e55f9363cdf159aebcf11e.jpg?t=1490031855)
 * [Firewatch Backgrounds (Mods)](https://aaronolive.deviantart.com/art/Firewatch-Mods-619259473)
 * [Declan Ramsay dotfiles](https://github.com/declanramsay/dotfiles/)
-* [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
-* [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
 * [Bullet Journal](http://bulletjournal.com/)
 * [Awesome Conferences](https://github.com/RichardLitt/awesome-conferences)
+* [`git dad`](https://www.reddit.com/r/git/comments/6ecr4o/git_dad/)
+* [Code Monkey (Video)](https://www.youtube.com/watch?v=qYodWEKCuGg)
+* [The Definitive Sandwich Family Tree](https://medium.com/the-nib/the-definitive-sandwich-family-tree-1befd56001ad)
