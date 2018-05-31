@@ -154,6 +154,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Color Shades Generator](http://colllor.com/)
 * [Color Palette Generator](https://coolors.co/ffca3a-8ac926-1982c4-e84855-6a4c93)
 * [Dribble Color Inspiration](https://dribbble.com/colors/a866ee?percent=30)
+* [Paletton, Color Palette Generator](http://paletton.com/#uid=54K190kq5DGfIOCldIzxQA7-5pC)
 
 
 ## Misc
