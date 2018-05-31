@@ -143,6 +143,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Zeplin (Design/FE Collab Tool)](https://zeplin.io/)
 * [DaisyDisk (Paid, Disk Management)](https://daisydiskapp.com/)
 * [Vanilla (Free/Paid, Menu Bar Management)](http://matthewpalmer.net/vanilla/)
+* [1Password (Password Manager, Paid)](https://1password.com/)
 
 
 ## Design
