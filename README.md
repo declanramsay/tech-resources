@@ -19,6 +19,9 @@ My list of resources for development. Will be useful for sharing with future tea
 * [selfcare.tech - Repository of self-care resources](http://selfcare.tech/)
 * [Developer Growth Framework (Explainer)](https://www.tamarabuckland.co.nz/blog/2018/5/6/developer-growth-framework)
 * [Developer Growth Framework](https://docs.google.com/spreadsheets/d/10bla_DG_tWjPYMTYzR0p7ZBqIVd1n_NG5yXVfgARxa4/edit?usp=sharing)
+* [10 Books every new manager should read](http://uk.businessinsider.com/books-every-new-manager-should-read-2016-1?r=US&IR=T)
+* [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever (Book)](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (Book)](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 
 ## JavaScript (General)
