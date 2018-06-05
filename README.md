@@ -78,6 +78,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Sequelize Docs](http://docs.sequelizejs.com/)
 * [PostgreSQL Docs](https://www.postgresql.org/docs/9.4/static/index.html)
 * [Relational Database Concepts (Video, ~5mins)](https://www.youtube.com/watch?v=NvrpuBAMddw)
+* [How to perfrorm update operations on columns of type JSONB in Postgres 9.4 (StackOverflow)](https://stackoverflow.com/questions/26703476/how-to-perform-update-operations-on-columns-of-type-jsonb-in-postgres-9-4)
 
 
 ## Git
