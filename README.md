@@ -55,6 +55,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Writing Tests with Jest](https://facebook.github.io/jest/docs/en/tutorial-react.html)
 * [Redux Form Docs](https://redux-form.com/7.3.0/docs/api/)
 * [Flag, feature flagging for React+Redux](https://github.com/garbles/flag)
+* [React Helmet, Document Head Manager](https://github.com/nfl/react-helmet)
 
 
 ## CSS/SASS
