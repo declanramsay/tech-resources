@@ -66,7 +66,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Sass vs LESS](https://www.keycdn.com/blog/sass-vs-less/)
 * [Font Awesome (Icons)](http://fontawesome.io/)
 * [Should I use CSS-in-JS? (Article)](https://reactarmory.com/answers/should-i-use-css-in-js)
-
+* [Vertical align anything with just 3 lines of CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 
 ## Node/Express
 * [Express API](https://expressjs.com/en/4x/api.html)
@@ -160,7 +160,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Color Palette Generator](https://coolors.co/ffca3a-8ac926-1982c4-e84855-6a4c93)
 * [Dribble Color Inspiration](https://dribbble.com/colors/a866ee?percent=30)
 * [Paletton, Color Palette Generator](http://paletton.com/#uid=54K190kq5DGfIOCldIzxQA7-5pC)
-* [The Design Of Everyday Things (Human-Focused Design Book)](https://www.amazon.co.uk/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
+* [The Design Of Everyday Things (Human-centered Design Book)](https://www.amazon.co.uk/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
 
 
 ## Misc
