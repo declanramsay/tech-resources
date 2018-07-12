@@ -56,6 +56,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Redux Form Docs](https://redux-form.com/7.3.0/docs/api/)
 * [Flag, feature flagging for React+Redux](https://github.com/garbles/flag)
 * [React Helmet, Document Head Manager](https://github.com/nfl/react-helmet)
+* [React and PWA (Article Series)](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 
 
 ## CSS/SASS
@@ -92,6 +93,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Webpack docs](https://webpack.js.org/guides/)
 * [Getting started with JavaScript Bundling (Video)](https://www.youtube.com/watch?v=PcqYhSH44Ow)
 * [pm2 docs](http://pm2.keymetrics.io/docs/usage/cluster-mode/)
+* [Register a Gitlab Runner](https://docs.gitlab.com/runner/register/)
 
 
 ## Elasticsearch
@@ -104,6 +106,8 @@ My list of resources for development. Will be useful for sharing with future tea
 * [ContentKing Academy (Articles)](https://www.contentkingapp.com/academy)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Test My Site With Google](https://testmysite.withgoogle.com/intl/en-gb)
+* [Ultimate guide to JavaScript SEO (Article)](https://www.elephate.com/blog/ultimate-guide-javascript-seo/)
+* [JavaScript & SEO: The Definitive Resource List](http://www.stateofdigital.com/javascript-seo-the-definitive-resource-list/)
 
 
 ## Email Templating
