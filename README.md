@@ -69,6 +69,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Font Awesome (Icons)](http://fontawesome.io/)
 * [Should I use CSS-in-JS? (Article)](https://reactarmory.com/answers/should-i-use-css-in-js)
 * [Vertical align anything with just 3 lines of CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
+* [An Equal Height Grid using Flexbox](http://www.lottejackson.com/learning/an-equal-height-grid-using-flexbox)
 
 ## Node/Express
 * [Express API](https://expressjs.com/en/4x/api.html)
