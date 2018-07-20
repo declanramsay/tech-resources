@@ -63,6 +63,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Intro to BEM](http://getbem.com/introduction/)
 * [ITCSS - CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+* [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
 * [Holy Grail Layout in Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 * [Flexbox Grid (Grid System)](http://flexboxgrid.com/)
 * [Sass vs LESS](https://www.keycdn.com/blog/sass-vs-less/)
