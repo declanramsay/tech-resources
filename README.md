@@ -57,6 +57,8 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Flag, feature flagging for React+Redux](https://github.com/garbles/flag)
 * [React Helmet, Document Head Manager](https://github.com/nfl/react-helmet)
 * [React and PWA (Article Series)](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
+* [Migrate React Client to SSR Next.js](https://blog.eleven-labs.com/en/migrate-a-react-client-side-application-to-server-side-with-nextjs/)
+* [We migrated to Next.js to serve our home page 7.5× faster (Article)](https://blog.manifold.co/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84)
 
 
 ## CSS/SASS
