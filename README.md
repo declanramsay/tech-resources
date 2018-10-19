@@ -104,6 +104,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [bodybuilder.js docs](http://bodybuilder.js.org/docs/)
 * [elasticsearch ref](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 * [elasticsearch.js docs](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
+* [ElasticSearch 2.x Tutorial Series (Video)](https://www.youtube.com/watch?v=LV1akOoUAA8&list=PL9wjmfmb1gB2F213e-89RNW4jtq5UAn7a)
 
 
 ## SEO / Speed
