@@ -29,7 +29,7 @@ My list of resources for development. Will be useful for sharing with future tea
 * [exercism.io - JavaScript track (Code Challenges)](http://exercism.io/languages/javascript/about)
 * [Become A Full Stack Web Developer (Resource list)](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Burger Party (Promises explained)](https://kosamari.com/notes/the-promise-of-a-burger-party)
-
+* [Awesome - Curated List of awesome lists about Development](https://github.com/sindresorhus/awesome#readme)
 
 ## Ember
 * [Ember API](https://emberjs.com/api/)
@@ -57,8 +57,6 @@ My list of resources for development. Will be useful for sharing with future tea
 * [Flag, feature flagging for React+Redux](https://github.com/garbles/flag)
 * [React Helmet, Document Head Manager](https://github.com/nfl/react-helmet)
 * [React and PWA (Article Series)](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
-* [Migrate React Client to SSR Next.js](https://blog.eleven-labs.com/en/migrate-a-react-client-side-application-to-server-side-with-nextjs/)
-* [We migrated to Next.js to serve our home page 7.5× faster (Article)](https://blog.manifold.co/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84)
 
 
 ## CSS/SASS
@@ -85,6 +83,21 @@ My list of resources for development. Will be useful for sharing with future tea
 * [PostgreSQL Docs](https://www.postgresql.org/docs/9.4/static/index.html)
 * [Relational Database Concepts (Video, ~5mins)](https://www.youtube.com/watch?v=NvrpuBAMddw)
 * [How to perfrorm update operations on columns of type JSONB in Postgres 9.4 (StackOverflow)](https://stackoverflow.com/questions/26703476/how-to-perform-update-operations-on-columns-of-type-jsonb-in-postgres-9-4)
+
+
+## Testing
+* [AVA Test Runner](https://github.com/avajs/ava)
+
+
+## Documentation
+* [APIDOC](http://apidocjs.com/)
+* [Swagger](https://swagger.io/)
+
+## SSR
+* [Migrate React Client to SSR Next.js](https://blog.eleven-labs.com/en/migrate-a-react-client-side-application-to-server-side-with-nextjs/)
+* [We migrated to Next.js to serve our home page 7.5× faster (Article)](https://blog.manifold.co/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84)
+* [Next.js](https://github.com/zeit/next.js/)
+* [After.js](https://github.com/jaredpalmer/after.js/blob/master/README.md)
 
 
 ## Git
